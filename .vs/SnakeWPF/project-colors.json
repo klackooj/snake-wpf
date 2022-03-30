@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccfd3a99-5b1b-4615-a4d0-c43bfbe240b4": {
+      "ProjectGuid": "ccfd3a99-5b1b-4615-a4d0-c43bfbe240b4",
+      "DisplayName": "SnakeWPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
